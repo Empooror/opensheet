@@ -8,6 +8,6 @@
   },
   "author": "Ben Borgers <benborgers@hey.com>",
   "devDependencies": {
-    "wrangler": "^2.20.0"
+    "wrangler": "^3.5.1"
   }
 }
